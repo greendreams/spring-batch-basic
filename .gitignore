@@ -1,7 +1,8 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
-### STS ###
+### STS ##
+.sts4-cache/
 .apt_generated
 .classpath
 .factorypath
